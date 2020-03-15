@@ -1,0 +1,31 @@
+{
+  "name": "nodework",
+  "version": "0.0.1",
+  "description": "Practice of Node Module and Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start-nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratneshit52/NodePractice.git"
+  },
+  "keywords": [
+    "Node",
+    "Practice",
+    "Webservices",
+    "Web",
+    "API"
+  ],
+  "author": "Ratnesh Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratneshit52/NodePractice/issues"
+  },
+  "homepage": "https://github.com/ratneshit52/NodePractice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
