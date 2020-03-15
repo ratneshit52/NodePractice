@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
-console.log('its working...!')
+console.log('its working...!');
 
 function intServer(req, res) {
     if(req.url === '/') {
